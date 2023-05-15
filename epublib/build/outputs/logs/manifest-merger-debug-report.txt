@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\web\legado\epublib\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml:2:1-4:12
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml:2:1-4:12
+	package
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+		ADDED from D:\web\legado\epublib\src\main\AndroidManifest.xml:2:1-4:12
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\web\legado\epublib\src\main\AndroidManifest.xml:2:1-4:12
+uses-sdk
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+		ADDED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+		ADDED from D:\web\legado\epublib\src\main\AndroidManifest.xml
+		INJECTED from D:\web\legado\epublib\src\main\AndroidManifest.xml
